@@ -1,2 +1,2 @@
 # AI-powered-sign-language-conversion
-Useful for the dumb people 
+Useful for the people dont who speak
