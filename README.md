@@ -27,3 +27,5 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+
+This project is only for certain sign language 
