@@ -28,4 +28,4 @@ npm run dev
 - React
 - Tailwind CSS
 
-This project is only for certain sign language 
+This project is only for certain sign languages, not for all types of sign languages
